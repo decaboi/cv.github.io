@@ -1,0 +1,9 @@
+tu-repositorio/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+└── assets/
+    └── (opcional: fotos, íconos, etc.)
